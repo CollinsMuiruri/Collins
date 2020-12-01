@@ -1,4 +1,4 @@
-#!/home/collins/Documents/me/Collins/virtual/bin/python3
+#!/home/collins/Documents/me/Collins/Collins/virtual/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
